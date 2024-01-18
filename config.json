@@ -1,0 +1,314 @@
+{
+  "SOURCE_DIRECTORY": "C:/Users/aksha/Downloads",
+  "TARGET_DIRECTORY": "E:/Prep material",
+  "templates": [
+    {
+      "keyword": "Maths-Vedic",
+      "folder": "Maths/VedicMaths"
+    },
+    {
+      "keyword": "Maths-ProfitLoss",
+      "folder": "Maths/ProfitLoss"
+    },
+    {
+      "keyword": "English-Grammar",
+      "folder": "English/Grammar"
+    },
+    {
+      "keyword": "English-Vocabulary",
+      "folder": "English/Vocabulary"
+    },
+    {
+      "keyword": "GA-CurrentAffairs",
+      "folder": "GA/CurrentAffairs"
+    },
+    {
+      "keyword": "GA-GeneralKnowledge",
+      "folder": "GA/GeneralKnowledge"
+    },
+    {
+      "keyword": "Computer-Programming",
+      "folder": "Computer/Programming"
+    },
+    {
+      "keyword": "Computer-Networking",
+      "folder": "Computer/Networking"
+    },
+    {
+      "keyword": "Reasoning-Inequality",
+      "folder": "Reasoning\\Inequality"
+    },
+    {
+      "keyword": "Reasoning-CodingDecoding",
+      "folder": "Reasoning\\CodingDecoding"
+    },
+    {
+      "keyword": "Reasoning-OrderRanking",
+      "folder": "Reasoning\\OrderRanking"
+    },
+    {
+      "keyword": "Reasoning-Syllogism",
+      "folder": "Reasoning\\Syllogism"
+    },
+    {
+      "keyword": "Reasoning-Series",
+      "folder": "Reasoning\\Series"
+    },
+    {
+      "keyword": "Reasoning-Series",
+      "folder": "Reasoning\\Series"
+    },
+    {
+      "keyword": "Reasoning-Series",
+      "folder": "Reasoning\\Series"
+    },
+    {
+      "keyword": "Reasoning-Series",
+      "folder": "Reasoning\\Series"
+    },
+    {
+      "keyword": "Reasoning-Direction",
+      "folder": "Reasoning\\Direction"
+    },
+    {
+      "keyword": "Reasoning-Direction",
+      "folder": "Reasoning\\Direction"
+    },
+    {
+      "keyword": "Reasoning-Direction",
+      "folder": "Reasoning\\Direction"
+    },
+    {
+      "keyword": "Reasoning-Direction",
+      "folder": "Reasoning\\Direction"
+    },
+    {
+      "keyword": "Reasoning-Direction",
+      "folder": "Reasoning\\Direction"
+    },
+    {
+      "keyword": "Reasoning-Blood Relation",
+      "folder": "Reasoning\\Blood Relation"
+    },
+    {
+      "keyword": "Reasoning-Blood Relation",
+      "folder": "Reasoning\\Blood Relation"
+    },
+    {
+      "keyword": "Reasoning-Blood Relation",
+      "folder": "Reasoning\\Blood Relation"
+    },
+    {
+      "keyword": "Reasoning-Blood Relation",
+      "folder": "Reasoning\\Blood Relation"
+    },
+    {
+      "keyword": "Reasoning-Blood Relation",
+      "folder": "Reasoning\\Blood Relation"
+    },
+    {
+      "keyword": "Reasoning-Blood Relation",
+      "folder": "Reasoning\\Blood Relation"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Reasoning-Seating & Puzzle",
+      "folder": "Reasoning\\Seating & Puzzle"
+    },
+    {
+      "keyword": "Maths-Approximations",
+      "folder": "Maths\\Approximations"
+    },
+    {
+      "keyword": "Maths-Approximations",
+      "folder": "Maths\\Approximations"
+    },
+    {
+      "keyword": "Maths-Approximations",
+      "folder": "Maths\\Approximations"
+    },
+    {
+      "keyword": "Maths-Approximations",
+      "folder": "Maths\\Approximations"
+    },
+    {
+      "keyword": "Maths-Missing Number Series",
+      "folder": "Maths\\Missing Number Series"
+    },
+    {
+      "keyword": "Maths-Missing Number Series",
+      "folder": "Maths\\Missing Number Series"
+    },
+    {
+      "keyword": "Maths-Missing Number Series",
+      "folder": "Maths\\Missing Number Series"
+    },
+    {
+      "keyword": "Maths-Missing Number Series",
+      "folder": "Maths\\Missing Number Series"
+    },
+    {
+      "keyword": "Maths-Wrong Number Series",
+      "folder": "Maths\\Wrong Number Series"
+    },
+    {
+      "keyword": "Maths-Wrong Number Series",
+      "folder": "Maths\\Wrong Number Series"
+    },
+    {
+      "keyword": "Maths-Wrong Number Series",
+      "folder": "Maths\\Wrong Number Series"
+    },
+    {
+      "keyword": "Maths-Wrong Number Series",
+      "folder": "Maths\\Wrong Number Series"
+    }
+  ]
+}
